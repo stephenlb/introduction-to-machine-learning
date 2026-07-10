@@ -5,6 +5,8 @@
  - Lesson 02: Using Tensors with Math
  - Lesson 03: Indexing and Slicing
  - Lesson 04: Aggregations sum() min
+ - Lesson 05: Dot Product
+ -
  -
  -
 
