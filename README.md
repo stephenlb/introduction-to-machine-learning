@@ -2,11 +2,18 @@
 
 ## Topics
  - Lesson 01: Creating Tensors
- - Lesson 02:Using Tensors with Math
+ - Lesson 02: Using Tensors with Math
+ -
+ -
+ -
+ -
 
-## Future Classe Topics
+## Future Classes Topics
  - Data Cleaning
  - MLX
+ - Make our own Tensor Library in Rust
+    - Fn fn in Rust execute()
+    - Python03 - import to Python 
  - Pytorch
  - Matplotlib / Seaborn 
  - Overfitting vs Underfitting
@@ -14,6 +21,7 @@
  - Gradient Explosions!
  - scikit-learn
  - pandas 
+ - regression modeling with statsmodels
  - gta 6
  - 
  - 
