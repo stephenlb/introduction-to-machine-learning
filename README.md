@@ -5,10 +5,11 @@
  - Lesson 02: Using Tensors with Math
  - Lesson 03: Indexing and Slicing
  - Lesson 04: Aggregations sum() min
- - Lesson 05: Dot Product
+ - Lesson 05: Linear Algbra Dot Product
  -
  -
  -
+
 
 ## Future Classes Topics
  - Data Cleaning
@@ -28,5 +29,8 @@
  - regression modeling with statsmodels
  - gta 6
  - build a neural network from scartch
+ - Makarov's Chains 
+ - RL Reinforcement Learning
+ - 
  - 
  - 
