@@ -10,4 +10,7 @@ print(a - b)
 print(a * b)
 print(a / b)
 print(a ** b)
+print(np.sqrt(a))
+print(np.exp(a))
+
 

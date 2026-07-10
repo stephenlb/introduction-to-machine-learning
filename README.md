@@ -3,19 +3,21 @@
 ## Topics
  - Lesson 01: Creating Tensors
  - Lesson 02: Using Tensors with Math
- -
- -
+ - Lesson 03: Indexing and Slicing
+ - Lesson 04: Aggregations sum() min
  -
  -
 
 ## Future Classes Topics
  - Data Cleaning
+ - Time Series as Featuers
  - MLX
  - Make our own Tensor Library in Rust
     - Fn fn in Rust execute()
     - Python03 - import to Python 
  - Pytorch
  - Matplotlib / Seaborn 
+ - CUDA
  - Overfitting vs Underfitting
  - Vanising Gradients
  - Gradient Explosions!
@@ -23,6 +25,6 @@
  - pandas 
  - regression modeling with statsmodels
  - gta 6
- - 
+ - build a neural network from scartch
  - 
  - 
