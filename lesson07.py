@@ -63,7 +63,7 @@ class LinearRegression():
                 ages[i],
                 genders[i],
             ])
-        targets = [[survived or 1] for survived in data['Survived'].tolist()]
+        targets = [[survived] for survived in data['Survived'].tolist()]
         return np.array(features), np.array(targets)
 
     def generate_data_rocks(self, samples):
@@ -96,19 +96,19 @@ def main():
 
     print('targets')
     print(targets.shape)
+    print(targets[10:15])
     print()
 
     predictions = model.predict(features)
     print('predictions')
-    print(predictions)
+    print(predictions[:5])
     print()
-    return
 
     model.train(features, targets)
 
     ## Test
     print("If you are 40 on the titantic, will you servive?")
-    servived = model.predict([[5],[10],[20],[40]])
+    servived = model.predict([[5, -1],[10, -1],[20, -1],[40, -1]])
     print(servived)
     print(servived > 0.5)
 

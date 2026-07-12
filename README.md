@@ -11,6 +11,7 @@
  -
 
 ## Future Classes Topics
+ - Random Forest Tutorial
  - Data Cleaning
  - Time Series as Featuers
  - MLX
