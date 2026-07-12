@@ -6,10 +6,9 @@
  - Lesson 03: Indexing and Slicing
  - Lesson 04: Aggregations sum() min
  - Lesson 05: Linear Algbra Dot Product
+ - Lesson 06: Linear Regression (Machine Learning)
+ - Lesson 07: With Titanic Data https://www.kaggle.com/competitions/titanic/data
  -
- -
- -
-
 
 ## Future Classes Topics
  - Data Cleaning
@@ -31,6 +30,6 @@
  - build a neural network from scartch
  - Makarov's Chains 
  - RL Reinforcement Learning
- - 
+ - LoRA Low Rank Adaptation Fine Tuning
  - 
  - 
